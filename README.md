@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mateo Campillo</h1>
 <h3 align="center">Full Stack Web Developer, 📍 Buenos Aires, Argentina</h3>
 
-- 🔭 I’m currently working on [EcommerceMC](https://github.com/mateocampillo/EcommerceMC)
+- 🔭 I’m currently working on [StoreHub](https://github.com/mateocampillo/StoreHub)
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Next.js && Typescript**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-mateocampillo.vercel.app/](https://portfolio-mateocampillo.vercel.app/)
 
